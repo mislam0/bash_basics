@@ -22,3 +22,5 @@ read height
 pixels=$(( width * height ))
 
 echo "The total number of pixels is $pixels"
+
+#adding a comment and saying hi in this
